@@ -28,7 +28,7 @@ const Experience: React.FC = () => {
         </motion.div>
 
         <div className="relative">
-          {/* Vertical Glowing Line */}
+          {/* Vertical Glowing Line*/}
           <div className="absolute left-8 md:left-1/2 top-0 bottom-0 w-0.5 bg-gradient-to-b from-transparent via-neonPurple to-transparent md:-translate-x-1/2 shadow-[0_0_10px_rgba(168,85,247,0.5)]" />
 
           <div className="space-y-12">
